@@ -19,4 +19,4 @@ This activity introduces the four pillars of computational thinking by analyzing
 - `train.csv`
 - `Computational_Thinking_Titanic_Lab.pdf`
 - `Activity1_Titanic.ipynb`
-- `Sample_Notebook_Output.ipynb`
+- `lab1_sample_output.ipynb`
