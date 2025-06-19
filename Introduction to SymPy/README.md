@@ -9,7 +9,7 @@ This activity introduces **SymPy**, a Python library for symbolic mathematics. S
 - Perform basic symbolic calculations using SymPy.
 
 ### 📚 Instructions
-1. Open the provided activity notebook (e.g., `Activity3_SymPy_Intro.ipynb`) in **Google Colaboratory**.
+1. Open the provided activity notebook `lab3_intro_to_sympy.ipynb` in **Google Colaboratory**.
 2. Create a personal copy in your Google Drive.
 3. Answer all the questions provided in the notebook.
 
@@ -20,4 +20,4 @@ This activity introduces **SymPy**, a Python library for symbolic mathematics. S
 
 ### 🗃️ Folder Contents
 - `lab3_intro_to_sympy.ipynb` *(starter notebook with questions and tasks)*
-- `lab3_sympy_Belarmino.ipynb`
+- `lab3_sympy_Belarmino.ipynb` *(output)*
